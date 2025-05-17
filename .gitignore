@@ -1,2 +1,4 @@
 /dataset/
 results.txt
+.idea
+__pycache__
